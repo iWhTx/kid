@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Kaito Kid 💎</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="https://cdn.glitch.com/45448a0b-4b0a-4be3-8d57-bce36c02aa44%2Fdc2e1f29-7143-4405-8506-5d15feb1c721_Kai.png?v=1587246013849" />
+    <meta name="google-site-verification" content="KdVl1GoKDXG1U--j5ZPzUBc8jSyeQ80doiPH87GKu6M" />
+    <meta property="og:title" content="Kaito Kid" />
+    <meta property="og:description" content="Website created by: Kaotik for the bot Kaito Kid in Discord" />
+    <meta name="theme-color" content="#f4f4f4" />
+    <link rel="icon" href="https://cdn.glitch.com/45448a0b-4b0a-4be3-8d57-bce36c02aa44%2Fkaito.ico?v=1587253040289" type="image/x-icon" />
+    <div style="background-image: url('https://cdn.glitch.com/45448a0b-4b0a-4be3-8d57-bce36c02aa44%2Ffondonegro.jpg?v=1587255383959');">
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>Kaito Kid</h1>
+  
+	<head>
+		<title>Menu Desplegable</title>
+		<style type="text/css">
+			
+			* {
+				margin:0px;
+				padding:0px;
+			}
+			
+			#header {
+				margin:auto;
+				width:500px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#000;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div id="header">
+			<ul class="nav">
+				<li><a href="httpa://kaito-website.glitch.me/page/home">Home</a></li>
+				<li><a href="https://kaito-website.glitch.me/page/comandos">Comandos</a>
+				<li><a href="https://kaito-website.glitch.me/page/acerca-de">Acerca de</a>
+				<li><a href="https://kaito-website.glitch.me/page/contacto">Contacto</a></li>
+        <li><a href="https://kaito-website.glitch.me/page/servidor">Servidor</a></li>
+        <li><a href="https://kaito-website.glitch.me/page/invite">Invite</a></li>
+	</body>
+</html>
+    
+    
+    
+<div align="center">
+  <img src="https://cdn.glitch.com/45448a0b-4b0a-4be3-8d57-bce36c02aa44%2Fdc2e1f29-7143-4405-8506-5d15feb1c721_Kai.png?v=1587246013849" draggable="false" width="300" weight="300">
